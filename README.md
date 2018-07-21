@@ -2,6 +2,8 @@
 This is a simple application written in Python using Django. All it does is take you to a form and asks you to fill out
 student registration for Lipscomb. The backend uses MySql for the database.
 
+![Django](/django-test-drive.png)
+
 # Run server
 To run this locally on your computer, all you need to do is clone the files. You also need to make sure you have Python 3
 installed. Then run:
